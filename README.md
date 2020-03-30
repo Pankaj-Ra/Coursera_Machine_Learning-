@@ -1,4 +1,4 @@
-# Coursera Machine Learning 
+# Coursera Machine Learning By Andrew NG
 <IMG src='https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format&dpr=1&h=256&w=256&fit=fill&bg=FFF' width=25% height=25%><P>
   
   
